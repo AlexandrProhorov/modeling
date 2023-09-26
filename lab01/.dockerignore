@@ -1,0 +1,8 @@
+# build
+./dist/
+
+# docker
+./.docker/
+
+# npm
+./node_modules/
